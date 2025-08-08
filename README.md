@@ -21,3 +21,7 @@ Latex code for drawing neural networks for reports and presentation. Have a look
 ![img](https://user-images.githubusercontent.com/17570785/50308846-c2231880-049c-11e9-8763-3daa1024de78.png)
 
 ![img](https://user-images.githubusercontent.com/17570785/50308873-e2eb6e00-049c-11e9-9587-9da6bdec011b.png)
+
+## [DotNet](https://github.com/martisak/dotnets)
+
+![Simple net](https://github.com/martisak/dotnets/raw/master/test.png)
