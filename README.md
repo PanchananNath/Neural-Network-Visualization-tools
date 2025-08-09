@@ -11,10 +11,11 @@
 
 ## [TensorSpace](https://tensorspace.org/)
 
-TensorSpace is a neural network 3D visualization framework built by TensorFlow.js, Three.js and Tween.js. TensorSpace provides Layer APIs to build deep learning layers, load pre-trained models, and generate a 3D visualization in the browser. By applying TensorSpace API, it is more intuitive to visualize and understand any pre-trained models built by TensorFlow, Keras, TensorFlow.js, etc.
+TensorSpace is a neural network 3D visualization framework built by TensorFlow.js, Three.js and Tween.js. TensorSpace provides Layer APIs to build deep learning layers, load pre-trained models, and generate a 3D visualization in the browser. By applying TensorSpace API, it is more intuitive to visualize and understand any pre-trained models built by TensorFlow, Keras, TensorFlow.js, etc. **[Tutorial](https://www.freecodecamp.org/news/tensorspace-js-a-way-to-3d-visualize-neural-networks-in-browsers-2c0afd7648a8/)**
+
 ![enter image description here](https://i.stack.imgur.com/ekF5v.png)
 
-**[Tutorial](https://www.freecodecamp.org/news/tensorspace-js-a-way-to-3d-visualize-neural-networks-in-browsers-2c0afd7648a8/)**
+
 
 
 ## [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
