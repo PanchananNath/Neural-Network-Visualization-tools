@@ -23,7 +23,7 @@ TensorSpace is a neural network 3D visualization framework built by TensorFlow.j
 
 ## [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 
-Latex code for drawing neural networks for reports and presentation. Have a look into examples to see how they are made. Additionally, lets consolidate any improvements that you make and fix any bugs to help more people with this code.
+Latex code for drawing neural networks for reports and presentation. Have a look into examples to see how they are made. Additionally, lets consolidate any improvements that you make and fix any bugs to help more people with this code
 
 ![img](https://user-images.githubusercontent.com/17570785/50308846-c2231880-049c-11e9-8763-3daa1024de78.png)
 
