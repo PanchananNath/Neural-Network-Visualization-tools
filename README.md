@@ -1,4 +1,4 @@
-# List of tools for visualization of Neural Network Visualization 
+# List of tools for visualization of Neural Networks
 
 ## [Netron](https://github.com/lutzroeder/Netron)
 
